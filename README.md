@@ -5,10 +5,5 @@ areapicker
 <script type="text/javascript" src="jquery.areapicker.js"></script>
 <h2>AreaPicker 4 China</h2>
 <div id="test">
-	<select id="testareapicker"></select>
-	<script>
-		$(function(e) {
-			$('#testareapicker').areaPicker({});
-		});
-	</script>
+	DEMO:http://www.scylla.me/2011/06/09/area-picker-of-china/
 </div>
